@@ -1,0 +1,14 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  padding-top: 3rem
+}
+.App h1 {
+  margin-bottom: 2rem;
+}
+.App img {
+  width: 450px
+}
