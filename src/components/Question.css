@@ -1,10 +1,11 @@
 .question {
     text-align: center;
-    max-width: 500px;
-    min-width: 400px;
+    max-width: 480px;
+    min-width: 480px;
     background-color:#2f2841;
     border-radius: 1rem;
     padding: 2rem;
+    border: 2px solid #00ff88    
 }
 .question h2 {
     margin-bottom: 2rem

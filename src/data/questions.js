@@ -25,7 +25,7 @@ const questions = [
     answer: 'length',
   },
   {
-    question: 'Qual desses mostrar o tamanho do item',
+    question: 'Qual desses mostra o tamanho do item',
     options: ['length', 'index', 'qty', 'sort'],
     answer: 'length',
   },
@@ -35,7 +35,7 @@ const questions = [
     answer: 'true e false',
   },
   {
-    question: 'Qual desenvolveu esse quiz?',
+    question: 'Quem desenvolveu esse quiz?',
     options: ['Maycon', 'Você', 'Elon Musk', 'Mark Zuckerberg'],
     answer: 'Maycon',
   },
