@@ -23,6 +23,6 @@
 }
 @media (max-width: 600px) {
     .question {
-        max-width: 430px
+        min-width: 430px
     }
 }
